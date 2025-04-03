@@ -1,5 +1,8 @@
 ![Hello I'm Alex](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=blue&width=435&lines=Hello%2C+I'm+Alex;Mastermind+of+IoT+👨‍💻)
 
+![mona-whisper](https://github.com/user-attachments/assets/d5646ca5-4185-4c98-925f-8149c3799b2d)
+
+
 ## 🛠 Tech Stack
 
 ### 🖥️ Infrastructure and Virtualization
