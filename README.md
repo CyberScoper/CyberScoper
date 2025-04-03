@@ -61,7 +61,6 @@
 ## 🖥 My Hardware
 
 ### 🔧 Server - Huevina1
-![Server Picture](https://i.imgur.com/FkMWXWy_d.webp?maxwidth=430)
 
 - **Processor:** INTEL XEON E5-2650 v4, LGA2011-3, 2.20 Ghz, 30M L3, 12/24
 - **RAM:** 16GB DDR4 2133MHz
